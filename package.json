@@ -1,0 +1,11 @@
+{
+  "name": "123",
+  "namelower": "123",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

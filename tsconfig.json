@@ -1,0 +1,19 @@
+{ 
+    "compilerOptions": { 
+        "emitDecoratorMetadata": true, 
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "module": "amd", 
+        "target": "es5",
+        "sourceMap": true,
+        //"outDir": "bin",
+        "outFile": "bin/singleFile.js",
+        "declaration": true,
+        "noImplicitAny": true
+    },
+    "exclude": [
+        "node_modules",
+        "bin",
+        ".vscode"
+    ]
+} 
